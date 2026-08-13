@@ -1,0 +1,18 @@
+{
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "preview": "vite preview --host 0.0.0.0"
+  },
+  "dependencies": {
+    "@remotion/player": "^4.0.500",
+    "@vitejs/plugin-react": "^4.3.4",
+    "framer-motion": "^12.42.0",
+    "lucide-react": "^0.468.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "remotion": "^4.0.500",
+    "typescript": "^5.7.2",
+    "vite": "^6.0.7"
+  }
+}
